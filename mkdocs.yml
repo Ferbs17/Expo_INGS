@@ -10,7 +10,8 @@ theme:
 extra_css:
     - css/page.css
 nav:
-- Colaborativas:
-        - Exposición: todo.md
+    - Individuales:
+        - Actividad 1: todo.md
+        - Actividad 2: todo.md
 copyright: ©GMDXX
 site_author: GMDXX
