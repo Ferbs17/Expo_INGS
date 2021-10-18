@@ -9,5 +9,13 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+Equipo 4: ISO/IEC
+
+| Nombre | Correo |
+| --- | --- |
+| Arazueta Becerra Zamantha | |
+| Lopez Perez Jose Alejandro |  |
+| Ordaz Romero Sergio |  |
+| Ortega Vergara Angel Fernando  |  | 
+| Zavala Elizondo Fernando | 316073996@pcpuma.acatlan.unam.mx |
+
