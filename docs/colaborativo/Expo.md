@@ -52,7 +52,7 @@ Los objetivos de la ISO/IEC 9126 son:
 
 + Sensibilizar a los lectores con los conceptos necesarios para la evaluación de software.
 + Orientar a estudiantes y profesionales del campo informático en los estándares mínimos de calidad para recibir o entregar un desarrollo comercial o libre.
-+ Brindar a las empresas p clientes compradores del software una heraamienta para tener en cuenta en sus departamentos de sistemas en el momento que se desean adquirir una aplicación informática.
++ Brindar a las empresas o clientes compradores del software una heraamienta para tener en cuenta en sus departamentos de sistemas en el momento que se desean adquirir una aplicación informática.
 + Aumentar y mantener la calidad en el desarrollo de las aplicaciones realizadas dentro de la dirección de sistemas de una empresa.
 + Sensibilizar a los lectores la importancia de la certificación de calidad software.
 + Colaborar en el desarrollo de software cumpliendo con los requerimientos del cliente y entregar un producto de calidad.
