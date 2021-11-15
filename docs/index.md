@@ -14,7 +14,7 @@ Equipo 4: ISO/IEC
 | Nombre | Correo |
 | --- | --- |
 | Arazueta Becerra Zamantha | |
-| Lopez Perez Jose Alejandro |  |
+| Lopez Perez Jose Alejandro |  315186530@pcpuma.acatlan.unam.mx |
 | Ordaz Romero Sergio |  |
 | Ortega Vergara Angel Fernando  |  | 
 | Zavala Elizondo Fernando | 316073996@pcpuma.acatlan.unam.mx |
