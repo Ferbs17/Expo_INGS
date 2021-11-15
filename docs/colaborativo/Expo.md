@@ -41,7 +41,102 @@ el proceso de evaluación.
 &nbsp;
 
 
-## CARACTERÍSTICAS
+### ** Caracteristicas de ISO **
+<div style= "text-align: justify">
+* Es el estándar internacional de carácter certificable que regule los sistemas de gestión de la calidad.
+</div>
+<div style= "text-align: justify">
+* Es una herencia de la versión 2008
+Refleja el nuevo esquema normativo fijado por la ISO.
+</div>
+<div style= "text-align: justify">
+
+* Norma diseñada para permitir que las empresas sean mas eficaces y tenga mejor ventaja competitiva.
+</div>
+<div style= "text-align: justify">
+* Tiene un enfoque basado en procesos.
+</div>
+<div style= "text-align: justify">
+* Esta aplicado al ciclo de mejora continua
+Sirve para detectar errores antes de que sean producidos.
+</div>
+<div style= "text-align: justify">
+* Es adaptable a todo tipo de organización.
+</div>
+
+### * Caracteristicas 9126* 
+
+<div style= "text-align: justify">
+Funcionabilidad: conjunto de atributos que se relacionan con la existencia de un conjunto de funciones  y sus propiedades específicas. Las funciones son aquellas que satisfacen lo indicado o implica necesidades.
+</div>
+<div style= "text-align: justify">
+Idoneidad: Se enfoca a evaluar si el SW cuenta con un conjunto de funciones apropiadas para efectuar las tareas que fueron especificadas en su definición.
+</div>
+<div style= "text-align: justify">
+Exactitud: Permite evaluar si el SW presenta resultados o efectos acordes a las necesidades para las cuales fue creado.
+</div>
+<div style= "text-align: justify">
+Interoperabilidad: Permite evaluar la habilidad del SW de interactuar con otros sistemas previamente especificados.
+</div>
+<div style= "text-align: justify">
+Seguridad: Se refiere a la habilidad de prevenir el acceso no autorizado, ya sea accidental o promediado, a los programas y datos.
+</div>
+Conformidad: Evalúa si el SW se adhiere a estándares, convenciones o regulaciones en leyes y prescripciones similares.
+</div>
+<div style= "text-align: justify">
+Confiabilidad: conjunto de atributos relacionados con la capacidad de mantener un nivel de presentación bajo condiciones establecidas durante un periodo de tiempo establecido.
+Madurez: Permite medir la frecuencia de falla por errores en el SW.
+</div>
+<div style= "text-align: justify">
+Recuperación: Se refiere a la capacidad de restablecer el nivel de operación y recobrar los datos que hayan sido afectados directamente por una falla, así como al tiempo y el esfuerzo necesario para lograrlo.
+</div>
+<div style= "text-align: justify">
+Tolerancia de fallos: Se refiere a la habilidad de mantener un nivel específico de funcionamiento en caso de fallas del SW o de cometer infracciones de su interfaz específica.
+</div>
+<div style= "text-align: justify">
+Usabilidad: Conjunto de atributos relacionados con el esfuerzo necesitado para el uso, y en la valoración individual de tal uso, por un establecido o implicado conjunto de usuarios.
+</div>
+<div style= "text-align: justify">
+Comprensión: Se refiere al esfuerzo requerido por los usuarios para reconocer la estructura lógica del sistema y los conceptos relativos a la aplicación del SW.
+</div>
+<div style= "text-align: justify">
+Facilidad de Aprender: Establece atributos del SW relativos al esfuerzo que los usuarios deben hacer para aprender a usar la aplicación.
+Operatividad: Agrupa los conceptos que evalúan la operación y el control del sistema.
+</div>
+<div style= "text-align: justify">
+
+Eficiencia: Conjunto de atributos relacionados con la relación entre el nivel de desempeño del SW y la cantidad de recursos necesitados bajo condiciones establecidas.
+</div>
+<div style= "text-align: justify">
+Comportamiento en el tiempo: Atributos del SW relativos a los tiempos de respuesta y de procedimiento de los datos.
+</div>
+<div style= "text-align: justify">
+Comportamiento de recursos: Atributos de SW relativos a la cantidad de recursos usados y la duración de su uso en la realización de sus funciones.
+</div>
+<div style= "text-align: justify">
+Mantenibilidad: Conjunto de atributos relacionados con la facilidad de extender, modificar o corregir errores en un sistema SW.
+Estabilidad: Capacidad del SW de tener un desempeño normal a pesar de hacerse modificaciones.
+</div>
+<div style= "text-align: justify">
+Facilidad de análisis: Relativo al esfuerzo necesario para diagnosticar las deficiencias o causas de fallas, o para identificar las partes que deberán ser modificadas.
+</div>
+<div style= "text-align: justify">
+Facilidad de cambios: Capacidad del que tiene el SW para que la modificación pueda ser válida.
+</div>
+<div style= "text-align: justify">
+Facilidad de pruebas: Capacidad del que tiene el SW para que la modificación pueda ser válida.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 &nbsp;
