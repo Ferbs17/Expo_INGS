@@ -1,6 +1,7 @@
-﻿*~
+*~
 *.lnk
 *.user
+.DS_Store
 .vs/
 bin/
 obj/
