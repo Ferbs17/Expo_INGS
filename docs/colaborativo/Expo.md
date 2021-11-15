@@ -292,3 +292,35 @@ Ejemplo de Métrica externa de **Exactitud de cálculo** (*Eficiencia*):
 &nbsp;
 ## Proceso de Evaluación
 
+La evaluación de software es una visión cualitativa, que con el paso del paso del tiempo, deriva en una evaluación cuantitativa. ​
+
+Esta evaluación, toma en cuenta 3 aspectos importantes:​
+
++ __Estado del software:__ 
+    + Si el producto esta sin terminal o listo para la entrega  ​
+​
++ __Tipo de software:__ 
+    + Si es un sistema operativo, software de seguridad, software de ofimática,  entre otros.​
+​
++ __Perfiles de evaluadores:__ 
+    + Perfil del Usuario Final: 
+        + Concierne al interés de los mismos en usar el software, así como también su performance, su eficiencia, su facilidad de uso, entre otros aspectos.​
+        
+    + Perfil del Desarrollador:
+        + Debe considerar no sólo los requerimientos del software para la visión del usuario, sino también la calidad para los desarrollos intermedios resultantes de las actividades de la fase de desarrollo.​
+        Evaluan la mantenibilidad y portabilidad del producto.
+        
+    + Perfil del gerente: 
+        + Incorporar requerimientos de negocio a las características individuales.​
+        
+__La evaluacion de software debe:__
+
++ __Especificar los Objetivos:__ Conocer los objetivos tanto generales como específicos del software​
++ __Aplicar el modelo de calidad:__ Elaborar un instrumento o formato donde aplique el modelo de calidad externo e interno y calidad de uso.​
++ __Definir los criterios de la evaluación:__ Los criterios parten de los 7 indicadores principales.​
+
+__Escalas de evaluación:__
+
++ A partir de los 7 indicadores, se seleccionan metricas a evaluar, asignandoles un puntaje máximo de referencia, la suma de los puntajes de las métricas debe dar 100 puntos​.
+
++ Si el resultado tiene indicadores de calidad bajos, y el personal que lo evalúa permite realizar la corrección, se programa otra evaluación donde se verifique el proceso mejora.​
