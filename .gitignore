@@ -1,10 +1,14 @@
 *~
 *.lnk
 *.user
-.DS_Store
 .vs/
 bin/
 obj/
 site/
 wwwroot/
 packages/
+
+/.DS_Store
+**/.DS_Store
+/.nova
+**/.nova
