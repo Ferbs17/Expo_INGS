@@ -36,12 +36,34 @@ el proceso de evaluación.
 &nbsp;
 
 ## VENTAJAS & DESVENTAJAS
+Ventajas
 
+- Es un modelo de corte internacional adaptado a latinoamerica
+
+- Determina que subcaracteristicas son relevantes
+
+- Define metricas especificas para los componentes de software
+
+- Define indicadores para las caracteristicas de calidad
+
+- La terminologia es clara y precisa lo que facilita la comprensión para todos los actores del proceso
+
+- Introduce la "calidad de uso" que es la opinion del usuario
+
+Desvetajas
+
+- La usabilidad esta estrictamente tratada desde una perpectiva de proceso, no centrada en el producto
+
+- No tiene en cuenta la caracteristica de "facilidad de aprendizaje" siendo recomendada por otros estandares y expertos en usabilidad
+
+- El conjunto de metricas engloban conceptos dificilmente medibles
+
+- Se necesita de muchas métricas, lo que requiere de mayor esfuerzo, tiempo y costo
 
 &nbsp;
 
 
-### ** Caracteristicas de ISO **
+## ** Caracteristicas de ISO **
 <div style= "text-align: justify">
 * Es el estándar internacional de carácter certificable que regule los sistemas de gestión de la calidad.
 </div>
