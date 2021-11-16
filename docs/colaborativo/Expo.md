@@ -18,6 +18,28 @@ IEC proporciona una plataforma para las empresas, las industrias y los gobiernos
 </div>
 
 &nbsp; 
+### * Caracteristicas de ISO *
+ <div style= "text-align: justify">
+ <li> Es el estándar internacional de carácter certificable que regule los sistemas de gestión de la calidad.</li>
+ </div>
+ <div style= "text-align: justify">
+ <li> Es una herencia de la versión 2008
+ Refleja el nuevo esquema normativo fijado por la ISO.</li>
+ </div>
+ <div style= "text-align: justify">
+
+ <li>Norma diseñada para permitir que las empresas sean mas eficaces y tenga mejor ventaja competitiva.</li>
+ </div>
+ <div style= "text-align: justify">
+ <li>Tiene un enfoque basado en procesos.</li>
+ </div>
+ <div style= "text-align: justify">
+ <li>Esta aplicado al ciclo de mejora continua
+ Sirve para detectar errores antes de que sean producidos.</li>
+ </div>
+ <div style= "text-align: justify">
+ <li>Es adaptable a todo tipo de organización.</li>
+</div>
 
 ### **ISO/IEC 9126**
 <div style= "text-align: justify">
