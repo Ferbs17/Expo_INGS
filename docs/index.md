@@ -16,6 +16,6 @@ Equipo 4: ISO/IEC
 | Arazueta Becerra Zamantha | 420097789@pcpuma.acatlan.unam.mx |
 | Lopez Perez Jose Alejandro |  315186530@pcpuma.acatlan.unam.mx |
 | Ordaz Romero Sergio | 315086148@pcpuma.acatlan.unam.mx |
-| Ortega Vergara Angel Fernando  |  | 
+| Ortega Vergara Angel Fernando  | 420091639@pcpuma.acatlan.unam.mx | 
 | Zavala Elizondo Fernando | 316073996@pcpuma.acatlan.unam.mx |
 
