@@ -18,7 +18,7 @@ IEC proporciona una plataforma para las empresas, las industrias y los gobiernos
 </div>
 
 &nbsp; 
-### * Caracteristicas de ISO *
+##  Caracteristicas de ISO 
  <div style= "text-align: justify">
  <li> Es el estándar internacional de carácter certificable que regule los sistemas de gestión de la calidad.</li>
  </div>
@@ -41,7 +41,9 @@ IEC proporciona una plataforma para las empresas, las industrias y los gobiernos
  <li>Es adaptable a todo tipo de organización.</li>
 </div>
 
-### **ISO/IEC 9126**
+&nbsp;
+
+### ISO/IEC 9126
 <div style= "text-align: justify">
 La ISO 9126, publicada en 1992, es un estándar internacional para evaluar la calidad del software en base a un conjunto de características y sub-características de la calidad. Cada sub-característica consta de un conjunto de atributos que son medidos por una serie de métricas. 
 A la fecha, el modelo ISO 9216 no ha sido aplicado extensamente al ambiente de aprendizaje virtual, sin embargo, los autores creen que el modelo tiene el potencial para proporcionar una herramienta útil de evaluación: esta creencia se deriva de los muchos años de experiencia en la industria que uno de los investigadores ha tenido en la garantía de calidad de software.
@@ -58,7 +60,8 @@ el proceso de evaluación.
 &nbsp;
 
 ## VENTAJAS & DESVENTAJAS
-Ventajas
+
+**Ventajas**
 
 - Es un modelo de corte internacional adaptado a latinoamerica
 
@@ -72,7 +75,7 @@ Ventajas
 
 - Introduce la "calidad de uso" que es la opinion del usuario
 
-Desvetajas
+**Desventajas**
 
 - La usabilidad esta estrictamente tratada desde una perpectiva de proceso, no centrada en el producto
 
@@ -104,7 +107,7 @@ Con las bases siguientes se le explica al lector de forma sencilla, para que pue
  4. Proceso de evaluación
  5. Practica instrumento de evaluación.
 
- **MODELO DE CALIDAD**
+## MODELO DE CALIDAD
 
  <div style= "text-align: justify">
  La ISO/IEC 9126 permite especificar y evaluar la calidad del software desde diferentes criterios asociados con adquisición, requerimientos, desarrollo, uso, evaluación soporte, mantenimiento, aseguramiento de la calidad y auditoria de software.
@@ -147,6 +150,8 @@ Las definiciones se dan para cada caracteristica de calidad del software que inf
 
 &nbsp;
 
+## CARACTERÍSTICAS
+
 __*Funcionalidad:*__ Funcionalidad es la capacidad del software de cumplir y proveer las funciones para sastifacer las necesidades explícitas e implícitas cuando es utilizado en condiciones específicas.
 
 La funcionalidad se dividen en 5 criterios:
@@ -181,7 +186,7 @@ La confiabilidad se divide en 4 criterios:
 
 __*Usabilidad:*__ Es la capacidad del software de ser entendido, aprendido y suado en forma fácil y atractiva. Está determinada por los usuarios finales y los usuarios indirectos del software, dirigidos a todos los mbientes, a la preparación del usi y el resutado obtenido. 
 
-La suabilidad se divide en 5 criterios:
+La usabilidad se divide en 5 criterios:
 
 * __Entendimiento__
     + Se refiere al esfuerzo requerido por los usuarios para reconocer la estructura lógica del sistema y los conceptos relativos a la aplicación del SW.
